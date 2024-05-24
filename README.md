@@ -1,0 +1,1 @@
+This is just a simple task that was given by our teacher.This code will help you to plot multiple graphs in a single axis, as well as how to use title, legend, etc. try to solve an actual AC circuits 
